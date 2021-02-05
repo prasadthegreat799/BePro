@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801303912273",
+    "project_id": "bepro-5bbcb",
+    "storage_bucket": "bepro-5bbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801303912273:android:9a675c86ca0ba9cbac3d70",
+        "android_client_info": {
+          "package_name": "com.prasadthegreat.bepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801303912273-hqosd27j15as58bml54ljef2knhb1305.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHs_rudM8MXiOVfMRfYWDV3rqF-K0_ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801303912273-hqosd27j15as58bml54ljef2knhb1305.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
